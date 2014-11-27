@@ -1,0 +1,6 @@
+name: ItemFrameClicker
+version: 1.0
+main: me.MnMaxon.ItemFrameClicker.Main
+commands:
+   Clicker:
+      description: This does something
